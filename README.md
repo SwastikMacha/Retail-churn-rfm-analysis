@@ -16,6 +16,8 @@ Online Retail II (UK-based online retailer, Dec 2009–Dec 2011),
 ~4,300 customers after cleaning, loaded into PostgreSQL as
 `churn_project."Customer_Chrun_project"`.
 
+Source: [Online Retail II — UCI Machine Learning Repository / Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
+
 ## Method
 
 1. **Clean the data.** Removed rows with no `CustomerID` or a
